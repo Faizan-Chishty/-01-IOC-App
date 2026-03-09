@@ -4,6 +4,7 @@ public class RestaurantService {
 	
 	public RestaurantService() {
 		System.out.println("Heyyy");
+		System.out.println("Hello");
 	}
 	
 	Ipayment payment ;
